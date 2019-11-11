@@ -35,7 +35,7 @@ namespace unbanChecker
                 catch
                 {
                     Console.WriteLine("\nsnoozing :zzz:");
-                    Thread.Sleep(50000);
+                    Thread.Sleep(500000);
                 }
             }
 
